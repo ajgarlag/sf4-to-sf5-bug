@@ -5,6 +5,7 @@
         "php": ">=7.1.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "ajgl/sf4-to-sf5-role-unserialization": "^1.0",
         "doctrine/annotations": "^1.13",
         "symfony/console": "5.4.*",
         "symfony/dotenv": "5.4.*",

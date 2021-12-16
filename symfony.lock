@@ -1,4 +1,7 @@
 {
+    "ajgl/sf4-to-sf5-role-unserialization": {
+        "version": "1.0.0"
+    },
     "doctrine/annotations": {
         "version": "1.13",
         "recipe": {
